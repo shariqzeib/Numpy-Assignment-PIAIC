@@ -1,2 +1,1 @@
-# sharing-github
-Numpy Assignment PIAIC
+# Numpy Assignment PIAIC
